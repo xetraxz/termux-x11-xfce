@@ -17,3 +17,4 @@ termux-x11 :0 -xstartup "dbus-launch --exit-with-session xfce4-session" &
 clear
 echo "Setup Completed"
 echo "run ./start_x11.sh from home directory"
+echo "Open Termux-X11"
