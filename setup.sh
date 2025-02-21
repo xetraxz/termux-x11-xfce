@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 yes | pkg up
-pkg in x11-repo -y
-pkg in termux-x11-nightly pkg in xfce -y
-pkg in virglrenderer-android -y
+pkg install x11-repo -y
+pkg install termux-x11-nightly pkg in xfce4 -y
+pkg install virglrenderer-android -y
 #
 touch $HOME/start_x11.sh
 chmod +x $HOME/start_x11.sh
