@@ -16,6 +16,7 @@ Termux-X11 Setup with Xfce4 + Hardware Acceleration
 
 *
 ```
+pkg up -y && pkg in git wget -y
 git clone https://github.com/xetraxz/termux-x11-xfce.git
 cd termux-x11-xfce
 chmod +x *
