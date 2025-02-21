@@ -15,14 +15,18 @@ Termux-X11 Setup with Xfce4 + Hardware Acceleration
 
 ### Execution
 
-* Clone Repo
+*
 ```
 git clone https://github.com/xetraxz/termux-x11-xfce.git
 cd termux-x11-xfce
 chmod +x *
 ./setup.sh
 ```
-
+*After setup
+```
+cd $HOME
+./start_x11.sh
+```
 
 ## Authors
 xetraxz
