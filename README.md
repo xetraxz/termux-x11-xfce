@@ -27,7 +27,7 @@ chmod +x *
 cd $HOME
 ./start_x11.sh
 ```
-*Open termux-x11
+* Open termux-x11
 
 ## Authors
 xetraxz
