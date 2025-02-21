@@ -11,6 +11,7 @@ echo "
 virgl_test_server_android &
 export DISPLAY=:0
 termux-x11 :0 &
+sleep 3
 termux-x11 :0 -xstartup "dbus-launch --exit-with-session xfce4-session" &
 " >> $HOME/start_x11.sh
 clear
