@@ -1,4 +1,3 @@
-#!/data/data/com.termux/files/usr/bin/bash
 yes | pkg up
 pkg install x11-repo -y
 pkg install termux-x11-nightly pkg in xfce4 -y
