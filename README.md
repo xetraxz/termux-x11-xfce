@@ -10,7 +10,7 @@ Termux-X11 Setup with Xfce4 + Hardware Acceleration
 ### Dependencies
 
 * termux
-* termux-x11
+* [Termux-X11 GitHub README](https://github.com/termux/termux-x11#readme)
 * git
 
 ### Execution
