@@ -1,6 +1,7 @@
 yes | pkg up
 pkg install x11-repo -y
-pkg install termux-x11-nightly pkg in xfce4 -y
+pkg install termux-x11-nightly 
+pkg in xfce4 -y
 pkg install virglrenderer-android -y
 #
 touch $HOME/start_x11.sh
