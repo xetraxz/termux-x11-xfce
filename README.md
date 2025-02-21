@@ -11,7 +11,6 @@ Termux-X11 Setup with Xfce4 + Hardware Acceleration
 
 * [Termux](https://github.com/termux/termux-app#readme)
 * [Termux-X11](https://github.com/termux/termux-x11#readme)
-* git
 
 ### Execution
 
